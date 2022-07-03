@@ -1,5 +1,5 @@
-# React-Hooks-Spring-Boot-CRUD-Full-Stack-App
-In this course, we will learn how to build a complete full-stack web application using Spring boot as backend and React (React Hooks) as frontend. We will use MySQL database to store and retrieve the data.
+# Employee Directory App
 
-## React Hooks + Spring Boot CRUD Full Stack Application Course on YouTube
-https://youtube.com/playlist?list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu
+- A full stack employee management system utilizing SpringBoot and MySQL database for the back-end and React and Bootstrap for the front-end.
+- The employee directory can be browsed using employee's name, email and more. This app allows employees to stay organized and find who they’re looking for faster.
+
